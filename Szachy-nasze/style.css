@@ -1,0 +1,58 @@
+body {
+    background-color: gray;
+}
+
+#one, #two, #three, #four, #funf, #six, #seven, #eight {
+    display: flex;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: black;
+  
+   
+}
+
+.srodek {
+    text-align: center;
+
+
+}
+#chessboard {
+margin: 600px auto;
+width: 1200px;
+font-size: 50px;
+}
+
+  
+.white-box {
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    
+
+}
+.black-box {
+    background-color: black;
+    width: 150px;
+    height: 150px;
+}
+
+
+.letters {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width: 150px;
+padding: 50px;
+
+
+}
+.literki {
+    display: flex;
+    text-align: center;
+    width: 1200px;
+    margin-bottom: -45px;
+}
+.numbers {
+    text-align: center;
+    width: 50px;
+    display: flex;
+    margin-top: 45px;
+}
+
